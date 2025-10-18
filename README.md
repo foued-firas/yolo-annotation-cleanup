@@ -29,6 +29,7 @@ yolo-dataset-manager/
 git clone https://github.com/foued-firas/yolo-dataset-manager.git
 cd yolo-dataset-manager
 
+```
 ⚙️ Requirements
 Python 3.6+
 
